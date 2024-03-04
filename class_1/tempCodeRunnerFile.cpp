@@ -1,1 +1,2 @@
-        cout << value[i] << " ";
+
+    if(cnt == 8) {
